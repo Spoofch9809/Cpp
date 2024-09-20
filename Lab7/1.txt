@@ -1,0 +1,10 @@
+Survey Results
+Dish                1   2   3   4   5   6   7   8   9   10  Average
+Pad Thai            0   0   0   0   0   0   0   0   0   0       0.0
+Som Tam             0   0   0   0   0   0   0   0   0   0       0.0
+Mango Sticky Rice   0   0   0   0   0   0   0   0   0   0       0.0
+Tom Yum Goong       0   0   0   0   0   0   0   0   0   0       0.0
+Green Curry         0   0   0   0   0   0   0   0   0   0       0.0
+
+Highest Rates Dish: Mango Sticky Rice (Score: 45)
+Lowest Rated Dish: Green Curry (Score: 26)
